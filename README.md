@@ -14,6 +14,6 @@ com a devida prática.
 É de ciência que, ficou faltando uma página das três requeridas,
 mas para o intuito do aprendizado, se mostrou eficiente.
 
-## 🛠️ Tecnologias Utilizada
+### 🛠️ Tecnologias Utilizada
 - **Power BI**: foi utilizado unicamente com seus recursos nativos.
 > *dashboard_gerencial_dio.pbix*
